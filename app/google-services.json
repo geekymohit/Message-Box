@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "12539695601",
+    "firebase_url": "https://mymessagebox-ffeb1.firebaseio.com",
+    "project_id": "mymessagebox-ffeb1",
+    "storage_bucket": "mymessagebox-ffeb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12539695601:android:0f8baf086a0f0594",
+        "android_client_info": {
+          "package_name": "com.example.mohit.messagebox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12539695601-gdo3m6qdm9im86ltkb0a3dkigslunqn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsXZQ0lWOgaJ3i4uTbsRjEnVz1UB8YNpk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
